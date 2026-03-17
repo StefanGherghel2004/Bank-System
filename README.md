@@ -2,7 +2,7 @@
 
 # Phase 1 OOP Project - J. POO Morgan Chase & Co.
 
-#### Assignment Link: [https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/2024/proiect-e1](https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/tema)
+#### Assignment Link: [https://ocw.cs.pub.ro/courses/poo-ca-cd/teme/2024/proiect-e1](https://ocw.cs.pub.ro/courses/poo-ca-cd/arhiva/teme/2024/proiect/etapa1)
 
 Throughout this project, I implemented several classes that interact with each other to create a simplified bank system.
 Here’s a breakdown of how these classes work together:
